@@ -53,5 +53,5 @@ Get 0.05 Sepolia ETH every 24 hpurs. You need to have Ethereum mainnet balance o
 | [Google](https://cloud.google.com/application/web3/faucet) | 0.05 ETH | 24h | ❌ (Google Account) | ✅ | None | ❌ | ✅ Aug 2025 |
 | [Learnweb3](https://learnweb3.io/faucets/sepolia/) | 0.02 ETH | 24h | ❌ (GitHub Account) | ✅ | None | ❌ | ✅ Aug 2025 |
 | [Metamask](https://docs.metamask.io/developer-tools/faucet/) | 0–0.5 ETH | dynamic | ❌ (Metamask) | ❌ | [Proof of Humanity](https://poh.linea.build/) | ❌ | ✅ Aug 2025 |
-| [PoWFaucet](https://sepolia-faucet.pk910.de/) | varies | 24h+ | ✅ | ✅ | CPU mining | ✅ [repo](https://github.com/pk910/testnet-faucet) | ✅ Aug 2025 |
+| [PoWFaucet](https://sepolia-faucet.pk910.de/) | varies | 24h+ | ✅ | ✅ | CPU mining | ✅ [repo](https://github.com/pk910/PoWFaucet) | ✅ Aug 2025 |
 | [Quicknode](https://faucet.quicknode.com/ethereum/sepolia) | 0.05 ETH | 24h | ✅ | ❌ (0.001 ETH) | None | ❌ | ✅ Aug 2025 |
