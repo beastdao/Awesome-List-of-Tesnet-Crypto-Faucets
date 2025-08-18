@@ -1,5 +1,5 @@
 # Awesome List of Tesnet Crypto Faucets
-A list of popular, working and free Testnet Faucets (all **easy**, **fast** and **safe** to use, **without ads**) to get Testnet ETH and Tokens in 2025 
+A curated list of popular, working and free Testnet Faucets (all **easy**, **fast** and **safe** to use, **without ads**) to get Testnet ETH and Tokens in 2025 
 
 # What is a testnet (Sepolia, Holesky, Mumbai etc)?
 Short for "test network" a network used to simulate the behavior of the main network (for example **Ethereum**, **Base**, **Polygon** etc).
