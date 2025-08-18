@@ -36,7 +36,7 @@ Get 0.02 Sepolia ETH every 2 hours. You need to authenticate with your Github ac
 ### [Metamask Faucet](https://docs.metamask.io/developer-tools/faucet/)
 Get from 0 to 0.5 Sepolia ETH based on address's level of activity on Ethereum mainnet. Free users are required to complete Proof of Humanity to get access to faucet.
 
-### [PoWFaucet][https://sepolia-faucet.pk910.de/]
+### [PoWFaucet](https://sepolia-faucet.pk910.de/)
 Mine with CPU Sepolia ETH. Current difficulty is high (>438 kH/s).
 
 ### [Quicknode Sepolia ETH Faucet](https://faucet.quicknode.com/ethereum/sepolia)
