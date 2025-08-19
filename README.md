@@ -49,7 +49,7 @@ Get 0.05 Sepolia ETH every 24 hpurs. You need to have Ethereum mainnet balance o
 | Faucet | Claimable Amount | Cooldown | Works without Signups | Works without Mainnet Balance | Special Requirements | Open Source | Last Check |
 |--------|------------------|----------|-----------------------|-------------------------------|----------------------|-------------|------------|
 | [Alchemy](https://www.alchemy.com/faucets/ethereum-sepolia) | 0.1 ETH | 72h | ✅ | ❌ (0.001 ETH) | None | ❌ | ✅ Aug 2025 |
-| [Free Faucet](https://faucet.free) | 0.05 ETH | 24h | ✅ | ✅ | [free web3 name - 0xname](https://0xname.foo) | ✅ [repo](https://github.com/beastdao/0xname-sepolia-faucet) | ✅ Aug 2025 |
+| [Free Faucet](https://faucet.free) | 0.05 ETH | 24h | ✅ | ✅ | [free web3 name - 0xname](https://0xname.foo) | ✅ [repo](https://github.com/beastdao/free-faucet) | ✅ Aug 2025 |
 | [Google](https://cloud.google.com/application/web3/faucet) | 0.05 ETH | 24h | ❌ (Google Account) | ✅ | None | ❌ | ✅ Aug 2025 |
 | [Learnweb3](https://learnweb3.io/faucets/sepolia/) | 0.02 ETH | 24h | ❌ (GitHub Account) | ✅ | None | ❌ | ✅ Aug 2025 |
 | [Metamask](https://docs.metamask.io/developer-tools/faucet/) | 0–0.5 ETH | dynamic | ❌ (Metamask) | ❌ | [Proof of Humanity](https://poh.linea.build/) | ❌ | ✅ Aug 2025 |
