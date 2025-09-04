@@ -40,7 +40,7 @@ Get from 0 to 0.5 Sepolia ETH based on address's level of activity on Ethereum m
 Mine with CPU Sepolia ETH. Current difficulty is high (>438 kH/s).
 
 ### [Quicknode Sepolia ETH Faucet](https://faucet.quicknode.com/ethereum/sepolia)
-Get 0.05 Sepolia ETH every 24 hpurs. You need to have Ethereum mainnet balance of 0.001 ETH.
+Get 0.05 Sepolia ETH every 24 hours. You need to have Ethereum mainnet balance of 0.001 ETH.
 
 
 ---
